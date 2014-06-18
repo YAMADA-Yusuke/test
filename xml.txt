@@ -1,0 +1,23 @@
+<Results>
+<LResults>
+</LResults>
+<LResultDetails>
+</LResultDetails>
+<FResultDetailReports>
+</FResultDetailReports>
+<FResultDetailFiles>
+<FResultDetailFile>
+<USER_SHORT_NAME>SKK</USER_SHORT_NAME>
+<USER_NAME></USER_NAME>
+<FILE_NAME>SKKwork1_14-06-18_15:04:08.jpg</FILE_NAME>
+<FILE_PATH>/data/data/jp.co.tis.exmainte.cesmopronavi/picture/SKKwork1_14-06-18_15:04:08.jpg</FILE_PATH>
+<USER_ID>SKKwork1</USER_ID>
+<JISSHI_DATE>2014-06-18 15:05:11</JISSHI_DATE>
+<RESULT_DETAIL_ID>-1</RESULT_DETAIL_ID>
+<SCHEDULE_ID>156</SCHEDULE_ID>
+<ITEM_ID>143</ITEM_ID>
+<FILE_ID>0</FILE_ID>
+<FILE_KBN>0</FILE_KBN>
+</FResultDetailFile>
+</FResultDetailFiles>
+</Results>
